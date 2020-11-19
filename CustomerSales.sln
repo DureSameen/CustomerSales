@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerSales", "CustomerSales\CustomerSales.csproj", "{674D80CE-8651-4E29-B0EB-841D5AC21709}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APiTester", "APiTester\APiTester.csproj", "{4381FC10-B8E4-432A-A9C9-4F5C83C92164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674D80CE-8651-4E29-B0EB-841D5AC21709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674D80CE-8651-4E29-B0EB-841D5AC21709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674D80CE-8651-4E29-B0EB-841D5AC21709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674D80CE-8651-4E29-B0EB-841D5AC21709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4381FC10-B8E4-432A-A9C9-4F5C83C92164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4381FC10-B8E4-432A-A9C9-4F5C83C92164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4381FC10-B8E4-432A-A9C9-4F5C83C92164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4381FC10-B8E4-432A-A9C9-4F5C83C92164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {090F49B7-A69E-4A41-8CC0-F31DAAD3622A}
+	EndGlobalSection
+EndGlobal

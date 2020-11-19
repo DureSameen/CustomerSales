@@ -1,0 +1,22 @@
+﻿{
+  "Criteria": {
+    "Period": "CY",
+    "CompareWithLast": false,
+    "GroupBy": "Customer",
+    "Measure": "LineAmount",
+    "Order": "ASC",
+    "Top": 100,
+    "Id": "0299"
+  },
+  "Filters": [
+    {
+      "Column": "CustomerGroup",
+      "Value": "30"
+    }
+  ],
+  "DateRange": {
+    "Type": "Selection",
+    "DateFrom": "2020-01-01",
+    "DateTo": "2020-12-31"
+  }
+}
